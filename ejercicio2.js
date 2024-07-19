@@ -9,9 +9,9 @@
  */
 
 
-function areaTriangulo(base, altura) {
+function areaTriangulo() {
 
-    return base * altura / 2
+    return
 }
 
 

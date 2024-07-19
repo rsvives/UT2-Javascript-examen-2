@@ -7,16 +7,13 @@
  * 
  */
 
-function precioEnEuros(importe) {
+function precioEnEuros() {
 
-    let calderilla = importe * 100
-    let centimos = calderilla % 100
-    let euros = (calderilla - centimos) / 100
 
-    return { euros, centimos }
+
+    return
 }
 
-// precioEnEuros()
 
 
 

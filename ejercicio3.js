@@ -11,9 +11,9 @@
  * 
  */
 
-function cincoElementos(miArray) {
+function cincoElementos() {
 
-    return miArray.length >= 5 ? true : 5 - miArray.length
+    return
 }
 
 

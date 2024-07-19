@@ -10,9 +10,9 @@
  * 
  */
 
-function saludar(name = 'desconocid@') {
+function saludar() {
 
-    return 'hola ' + name
+    return
 }
 
 
