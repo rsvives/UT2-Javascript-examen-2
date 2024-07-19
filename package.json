@@ -1,0 +1,14 @@
+{
+  "name": "ut2-javascript-examen-2",
+  "version": "1.0.0",
+  "description": "examen 2º parcial javascript IFCD0210",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
